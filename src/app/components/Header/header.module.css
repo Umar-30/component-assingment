@@ -1,0 +1,14 @@
+.header{
+    background-color: aqua;
+    color: red;
+    padding: 50px;
+    
+}
+.ul{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    z-index: 50;
+    top: 0;   
+}
